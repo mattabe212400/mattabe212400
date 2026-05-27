@@ -14,9 +14,6 @@ Management Information Systems student at Iowa State University focused on opera
 ### OpsCore — Operations Management Platform
 Role-based operations platform built with JavaScript and Firebase to centralize attendance, analytics, scheduling, accountability tracking, meeting notes, and organizational workflows.
 
-### ABF Consulting
-Student-led consulting initiative focused on improving and modernizing small business websites and digital workflows.
-
 ## Technologies & Tools
 
 **Languages**
