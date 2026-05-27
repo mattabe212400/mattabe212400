@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Matt Abraham
 
-<!--
-**mattabe212400/mattabe212400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Information Systems student at Iowa State University focused on operations systems, workflow automation, analytics, and business technology.
 
-Here are some ideas to get you started:
+## Current Focus
+- Building operational workflow systems
+- Process automation & analytics
+- Business technology solutions
+- AI-assisted development tools
+- Firebase & real-time systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### OpsCore — Operations Management Platform
+Role-based operations platform built with JavaScript and Firebase to centralize attendance, analytics, scheduling, accountability tracking, meeting notes, and organizational workflows.
+
+### ABF Consulting
+Student-led consulting initiative focused on improving and modernizing small business websites and digital workflows.
+
+## Technologies & Tools
+
+**Languages**
+- JavaScript
+- Python
+- HTML/CSS
+- SQL
+
+**Platforms & Tools**
+- Firebase
+- Firestore
+- GitHub
+- Vercel
+- Microsoft Azure AI
+- Excel
+
+## Leadership
+Vice President & Head of Judicial Board for a 160+ member organization, overseeing operations, accountability systems, and executive coordination.
+
+## Currently Seeking
+Summer 2027 internships in:
+- Management Information Systems
+- Business Analytics
+- IT & Operations
+- Technology Consulting
+
+## Links
+- LinkedIn: www.linkedin.com/in/mabe2124
+- OpsCore Demo: https://internal-ops-dashboard-livid.vercel.app/
+- GitHub Projects: https://github.com/mattabe212400
