@@ -96,7 +96,6 @@ Summer 2027 internships in:
 # Links
 
 - LinkedIn: https://www.linkedin.com/in/mabe2124
-- GitHub: https://github.com/mattabe212400
 - OpsCore Demo: https://internal-ops-dashboard-livid.vercel.app/
 - IronSync Demo: https://ironsync-ai-fitness-coach.vercel.app/
 ```
