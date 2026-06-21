@@ -62,7 +62,7 @@ Browser-based security intelligence platform that centralizes vulnerability mana
 
 **Tech Stack:** JavaScript, Chart.js, HTML/CSS, SQL (PostgreSQL), Vercel
 
-🔗 Demo: https://cybersight.vercel.app/
+🔗 Demo: https://cybersight.vercel.app/](https://cyber-sight-gamma.vercel.app/
 
 ---
 
@@ -103,4 +103,4 @@ Summer 2027 internships in:
 - LinkedIn: https://www.linkedin.com/in/mabe2124
 - OpsCore: https://internal-ops-dashboard-livid.vercel.app/
 - IronSync: https://ironsync-ai-fitness-coach.vercel.app/
-- CyberSight: https://cybersight.vercel.app/
+- CyberSight: https://cyber-sight-gamma.vercel.app/
