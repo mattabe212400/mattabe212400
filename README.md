@@ -1,6 +1,4 @@
-
 # Hi, I'm Matt Abraham
-
 Management Information Systems student at Iowa State University focused on operations systems, workflow automation, analytics, and business technology.
 
 I'm especially interested in how technology can improve organizational efficiency through better systems design, data visibility, and streamlined workflows. Most of my projects sit at the intersection of operations, analytics, and practical software development.
@@ -8,7 +6,6 @@ I'm especially interested in how technology can improve organizational efficienc
 ---
 
 ## Current Focus
-
 - Building operational workflow systems
 - Process automation & analytics
 - Business technology solutions
@@ -18,13 +15,12 @@ I'm especially interested in how technology can improve organizational efficienc
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## OpsCore — Operations Management Platform
-
+### OpsCore — Operations Management Platform
 Role-based operations platform built with JavaScript and Firebase to centralize attendance tracking, scheduling, accountability systems, analytics, meeting documentation, and organizational workflows.
 
-### Key Features
+**Key Features**
 - Role-based permissions and dashboards
 - Real-time attendance and event tracking
 - Executive workflow coordination
@@ -37,37 +33,49 @@ Role-based operations platform built with JavaScript and Firebase to centralize 
 
 ---
 
-## IronSync — AI Fitness Coaching Platform
+### IronSync — Adaptive Training Decision Support Platform
+Frontend MVP for an adaptive fitness coaching platform designed from MIS systems analysis wireframes and entrepreneurship market research. Transforms readiness inputs into structured per-exercise load adjustments across 11 screens.
 
-Frontend MVP for an AI-powered fitness coaching platform designed from MIS systems analysis wireframes and entrepreneurship market research.
+**Key Features**
+- Goal-based onboarding across 4 training protocols
+- Recovery and readiness scoring engine
+- Live workout logging with 1RM estimation
+- Adaptive load recommendations and performance flags
+- 7-chart BI analytics dashboard with CSV export
 
-Built as a portfolio project exploring adaptive workout systems, recovery-aware programming, analytics dashboards, and AI-assisted coaching experiences.
-
-### Key Features
-- Goal-based onboarding system
-- Recovery and readiness tracking
-- Live workout logging interface
-- AI coaching recommendations
-- Progress analytics dashboards
-- Responsive SaaS-style UI
-
-**Tech Stack:** JavaScript, HTML/CSS, Chart.js, Vercel
+**Tech Stack:** JavaScript, Chart.js, HTML/CSS, Vercel
 
 🔗 Demo: https://ironsync-ai-fitness-coach.vercel.app/
 
 ---
 
-# Technologies & Tools
+### CyberSight — Cybersecurity Risk Analytics Dashboard
+Browser-based security intelligence platform that centralizes vulnerability management, incident tracking, compliance posture, and enterprise risk scoring across a simulated 20-asset environment. Includes a documented SQL backend and production-pattern API integration layer.
 
-## Languages
+**Key Features**
+- Multi-factor risk scoring: Severity × Criticality × Exploit Likelihood × Business Impact × Patch Delay × KEV Boost
+- CISA Known Exploited Vulnerabilities (KEV) integration with real-time badge flagging
+- CVSSv3.1 scoring, MITRE ATT&CK mapping, SLA breach detection
+- Probability-weighted financial impact model (breach exposure, downtime, compliance penalty)
+- PostgreSQL schema, seed data, and 10 analytical BI queries in `sql/`
+- Mock NVD CVE API and CISA KEV API ingestion layer with documented production swap-path
+
+**Tech Stack:** JavaScript, Chart.js, HTML/CSS, SQL (PostgreSQL), Vercel
+
+🔗 Demo: https://cybersight.vercel.app/
+
+---
+
+## Technologies & Tools
+
+**Languages**
 - JavaScript
 - Python
 - SQL
 - HTML/CSS
 
-## Platforms & Tools
-- Firebase
-- Firestore
+**Platforms & Tools**
+- Firebase / Firestore
 - Git & GitHub
 - Vercel
 - Microsoft Azure AI
@@ -76,14 +84,12 @@ Built as a portfolio project exploring adaptive workout systems, recovery-aware 
 
 ---
 
-# Leadership
-
+## Leadership
 Vice President and Head of Judicial Board for a 160+ member organization, overseeing operations, accountability systems, executive coordination, and organizational process management.
 
 ---
 
-# Currently Seeking
-
+## Currently Seeking
 Summer 2027 internships in:
 - Management Information Systems
 - Business Analytics
@@ -93,9 +99,8 @@ Summer 2027 internships in:
 
 ---
 
-# Links
-
+## Links
 - LinkedIn: https://www.linkedin.com/in/mabe2124
-- OpsCore Demo: https://internal-ops-dashboard-livid.vercel.app/
-- IronSync Demo: https://ironsync-ai-fitness-coach.vercel.app/
-```
+- OpsCore: https://internal-ops-dashboard-livid.vercel.app/
+- IronSync: https://ironsync-ai-fitness-coach.vercel.app/
+- CyberSight: https://cybersight.vercel.app/
