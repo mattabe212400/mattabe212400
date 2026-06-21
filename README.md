@@ -62,7 +62,7 @@ Browser-based security intelligence platform that centralizes vulnerability mana
 
 **Tech Stack:** JavaScript, Chart.js, HTML/CSS, SQL (PostgreSQL), Vercel
 
-🔗 Demo: https://cybersight.vercel.app/](https://cyber-sight-gamma.vercel.app/
+🔗 Demo: [https://cybersight.vercel.app/](https://cyber-sight-gamma.vercel.app/](https://cyber-sight-gamma.vercel.app/)
 
 ---
 
