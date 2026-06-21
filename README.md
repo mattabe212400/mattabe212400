@@ -1,4 +1,5 @@
 # Hi, I'm Matt Abraham
+
 Management Information Systems student at Iowa State University focused on operations systems, workflow automation, analytics, and business technology.
 
 I'm especially interested in how technology can improve organizational efficiency through better systems design, data visibility, and streamlined workflows. Most of my projects sit at the intersection of operations, analytics, and practical software development.
@@ -6,6 +7,7 @@ I'm especially interested in how technology can improve organizational efficienc
 ---
 
 ## Current Focus
+
 - Building operational workflow systems
 - Process automation & analytics
 - Business technology solutions
@@ -18,6 +20,7 @@ I'm especially interested in how technology can improve organizational efficienc
 ## Featured Projects
 
 ### OpsCore — Operations Management Platform
+
 Role-based operations platform built with JavaScript and Firebase to centralize attendance tracking, scheduling, accountability systems, analytics, meeting documentation, and organizational workflows.
 
 **Key Features**
@@ -29,11 +32,12 @@ Role-based operations platform built with JavaScript and Firebase to centralize 
 
 **Tech Stack:** JavaScript, Firebase, Firestore, HTML/CSS, Vercel
 
-🔗 Demo: https://internal-ops-dashboard-livid.vercel.app/
+🔗 [Demo](https://internal-ops-dashboard-livid.vercel.app/)
 
 ---
 
 ### IronSync — Adaptive Training Decision Support Platform
+
 Frontend MVP for an adaptive fitness coaching platform designed from MIS systems analysis wireframes and entrepreneurship market research. Transforms readiness inputs into structured per-exercise load adjustments across 11 screens.
 
 **Key Features**
@@ -45,11 +49,12 @@ Frontend MVP for an adaptive fitness coaching platform designed from MIS systems
 
 **Tech Stack:** JavaScript, Chart.js, HTML/CSS, Vercel
 
-🔗 Demo: https://ironsync-ai-fitness-coach.vercel.app/
+🔗 [Demo](https://ironsync-ai-fitness-coach.vercel.app/)
 
 ---
 
 ### CyberSight — Cybersecurity Risk Analytics Dashboard
+
 Browser-based security intelligence platform that centralizes vulnerability management, incident tracking, compliance posture, and enterprise risk scoring across a simulated 20-asset environment. Includes a documented SQL backend and production-pattern API integration layer.
 
 **Key Features**
@@ -62,7 +67,26 @@ Browser-based security intelligence platform that centralizes vulnerability mana
 
 **Tech Stack:** JavaScript, Chart.js, HTML/CSS, SQL (PostgreSQL), Vercel
 
-🔗 Demo: https://cyber-sight-gamma.vercel.app/
+🔗 [Demo](https://cyber-sight-gamma.vercel.app/)
+
+---
+
+### InsightFlow AI — Business Intelligence Assistant
+
+Full-stack AI business intelligence tool that accepts any CSV or Excel dataset and generates executive summaries, KPI dashboards, trend analysis, and strategic recommendations — powered by DeepSeek-V3.2 on Azure AI Foundry. Includes a streaming analysis pipeline and PDF export. Not hosted (requires Python backend — clone and run locally).
+
+**Key Features**
+- Drag-and-drop CSV/Excel upload with real-time SSE progress streaming
+- Data profiler — shape, column types, missing value detection, numeric statistics
+- Trend analyzer — linear regression, Pearson correlation, growth rates
+- KPI extractor — scores and ranks numeric columns by business relevance
+- AI executive summary, trend narrative, and 5 strategic recommendations via DeepSeek-V3.2
+- PDF export — full 5-page branded report downloadable from the dashboard
+- Graceful fallback to statistical mode when no AI key is configured
+
+**Tech Stack:** Python, FastAPI, pandas, scipy, Azure AI Foundry (DeepSeek-V3.2), Chart.js, HTML/CSS
+
+🔗 [GitHub](https://github.com/mabe2124/insightflow-ai)
 
 ---
 
@@ -85,11 +109,13 @@ Browser-based security intelligence platform that centralizes vulnerability mana
 ---
 
 ## Leadership
+
 Vice President and Head of Judicial Board for a 160+ member organization, overseeing operations, accountability systems, executive coordination, and organizational process management.
 
 ---
 
 ## Currently Seeking
+
 Summer 2027 internships in:
 - Management Information Systems
 - Business Analytics
@@ -100,7 +126,8 @@ Summer 2027 internships in:
 ---
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/mabe2124
-- OpsCore: https://internal-ops-dashboard-livid.vercel.app/
-- IronSync: https://ironsync-ai-fitness-coach.vercel.app/
-- CyberSight: https://cyber-sight-gamma.vercel.app/
+
+- LinkedIn: [linkedin.com/in/mabe2124](https://www.linkedin.com/in/mabe2124)
+- OpsCore: [Demo](https://internal-ops-dashboard-livid.vercel.app/)
+- IronSync: [Demo](https://ironsync-ai-fitness-coach.vercel.app/)
+- CyberSight: [Demo](https://cyber-sight-gamma.vercel.app/)
