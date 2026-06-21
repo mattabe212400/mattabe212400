@@ -86,7 +86,7 @@ Full-stack AI business intelligence tool that accepts any CSV or Excel dataset a
 
 **Tech Stack:** Python, FastAPI, pandas, scipy, Azure AI Foundry (DeepSeek-V3.2), Chart.js, HTML/CSS
 
-🔗 [GitHub](https://github.com/mabe2124/insightflow-ai)
+🔗 [GitHub](https://github.com/mattabe212400/InsightFlow-AI)
 
 ---
 
@@ -131,3 +131,4 @@ Summer 2027 internships in:
 - OpsCore: [Demo](https://internal-ops-dashboard-livid.vercel.app/)
 - IronSync: [Demo](https://ironsync-ai-fitness-coach.vercel.app/)
 - CyberSight: [Demo](https://cyber-sight-gamma.vercel.app/)
+- InsightFlow AI: [GitHub](https://github.com/mattabe212400/InsightFlow-AI)
