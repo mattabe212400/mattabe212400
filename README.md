@@ -1,134 +1,67 @@
 # Hi, I'm Matt Abraham
 
-Management Information Systems student at Iowa State University focused on operations systems, workflow automation, analytics, and business technology.
+**Management Information Systems · Iowa State University**
 
-I'm especially interested in how technology can improve organizational efficiency through better systems design, data visibility, and streamlined workflows. Most of my projects sit at the intersection of operations, analytics, and practical software development.
-
----
-
-## Current Focus
-
-- Building operational workflow systems
-- Process automation & analytics
-- Business technology solutions
-- AI-assisted development workflows
-- Firebase & real-time applications
-- Frontend dashboard and systems design
+I build operational workflow systems, analytics pipelines, and business technology tools — focused on the intersection of data visibility, process design, and real software that solves real organizational problems.
 
 ---
 
-## Featured Projects
+## What I'm Building
 
 ### OpsCore — Operations Management Platform
+> Role-based operations platform for real organizational use
 
-Role-based operations platform built with JavaScript and Firebase to centralize attendance tracking, scheduling, accountability systems, analytics, meeting documentation, and organizational workflows.
+A full-stack chapter operations system built with JavaScript and Firebase, designed to replace fragmented spreadsheets and group chats with a single source of truth. Currently deployed and used by a 160+ member organization.
 
-**Key Features**
-- Role-based permissions and dashboards
-- Real-time attendance and event tracking
-- Executive workflow coordination
-- Analytics and accountability reporting
-- Firebase authentication & Firestore integration
+**Features**
+- Role-based permissions across 20+ operational modules
+- Real-time attendance tracking, event management, and accountability reporting
+- Finance — dues collection, fines, payment plans, budget tracking
+- Judicial board case management with hearing workflows
+- Meeting notes with structured officer reports and action item tracking
+- Recruitment CRM with kanban pipeline and bid scoring
+- Officer transition hub with role-by-role handoff documentation
+- Analytics dashboard — member performance, attendance rates, chapter health scorecard
+- Firebase Auth + Firestore with real-time multi-user sync
 
-**Tech Stack:** JavaScript, Firebase, Firestore, HTML/CSS, Vercel
-
-🔗 [Demo](https://internal-ops-dashboard-livid.vercel.app/)
-
----
-
-### IronSync — Adaptive Training Decision Support Platform
-
-Frontend MVP for an adaptive fitness coaching platform designed from MIS systems analysis wireframes and entrepreneurship market research. Transforms readiness inputs into structured per-exercise load adjustments across 11 screens.
-
-**Key Features**
-- Goal-based onboarding across 4 training protocols
-- Recovery and readiness scoring engine
-- Live workout logging with 1RM estimation
-- Adaptive load recommendations and performance flags
-- 7-chart BI analytics dashboard with CSV export
-
-**Tech Stack:** JavaScript, Chart.js, HTML/CSS, Vercel
-
-🔗 [Demo](https://ironsync-ai-fitness-coach.vercel.app/)
+**Tech Stack:** JavaScript · Firebase · Firestore · HTML/CSS · Vercel
 
 ---
 
-### CyberSight — Cybersecurity Risk Analytics Dashboard
+### Bearlytics — Chicago Bears BI Dashboard *(In Development)*
+> NFL data analysis platform built on 10 seasons of public play-by-play data
 
-Browser-based security intelligence platform that centralizes vulnerability management, incident tracking, compliance posture, and enterprise risk scoring across a simulated 20-asset environment. Includes a documented SQL backend and production-pattern API integration layer.
+End-to-end BI project ingesting nflverse public datasets into a structured SQLite database, analyzed through SQL and surfaced through Power BI dashboards and Excel pivot analysis.
 
-**Key Features**
-- Multi-factor risk scoring: Severity × Criticality × Exploit Likelihood × Business Impact × Patch Delay × KEV Boost
-- CISA Known Exploited Vulnerabilities (KEV) integration with real-time badge flagging
-- CVSSv3.1 scoring, MITRE ATT&CK mapping, SLA breach detection
-- Probability-weighted financial impact model (breach exposure, downtime, compliance penalty)
-- PostgreSQL schema, seed data, and 10 analytical BI queries in `sql/`
-- Mock NVD CVE API and CISA KEV API ingestion layer with documented production swap-path
+**Planned Analysis**
+- Season win/loss trends and performance trajectory (2015–2024)
+- Player production — offense and defense (EPA, yards, touchdowns)
+- Salary and cap efficiency — cost-per-win, cost-per-yard, contract value
+- Draft class performance tracking
+- Soldier Field attendance and utilization trends
 
-**Tech Stack:** JavaScript, Chart.js, HTML/CSS, SQL (PostgreSQL), Vercel
-
-🔗 [Demo](https://cyber-sight-gamma.vercel.app/)
+**Tech Stack:** Python · pandas · SQLite · SQL · Power BI · Excel · nflverse
 
 ---
 
-### InsightFlow AI — Business Intelligence Assistant
+## Technologies
 
-Full-stack AI business intelligence tool that accepts any CSV or Excel dataset and generates executive summaries, KPI dashboards, trend analysis, and strategic recommendations — powered by DeepSeek-V3.2 on Azure AI Foundry. Includes a streaming analysis pipeline and PDF export. Not hosted (requires Python backend — clone and run locally).
+**Languages** — JavaScript · Python · SQL · HTML/CSS
 
-**Key Features**
-- Drag-and-drop CSV/Excel upload with real-time SSE progress streaming
-- Data profiler — shape, column types, missing value detection, numeric statistics
-- Trend analyzer — linear regression, Pearson correlation, growth rates
-- KPI extractor — scores and ranks numeric columns by business relevance
-- AI executive summary, trend narrative, and 5 strategic recommendations via DeepSeek-V3.2
-- PDF export — full 5-page branded report downloadable from the dashboard
-- Graceful fallback to statistical mode when no AI key is configured
+**Platforms** — Firebase · Firestore · Vercel · Microsoft Azure AI · Git/GitHub
 
-**Tech Stack:** Python, FastAPI, pandas, scipy, Azure AI Foundry (DeepSeek-V3.2), Chart.js, HTML/CSS
-
-🔗 [GitHub](https://github.com/mattabe212400/InsightFlow-AI)
+**Tools** — Power BI · Excel · Chart.js
 
 ---
 
-## Technologies & Tools
+## Background
 
-**Languages**
-- JavaScript
-- Python
-- SQL
-- HTML/CSS
-
-**Platforms & Tools**
-- Firebase / Firestore
-- Git & GitHub
-- Vercel
-- Microsoft Azure AI
-- Excel
-- Chart.js
-
----
-
-## Leadership
-
-Vice President and Head of Judicial Board for a 160+ member organization, overseeing operations, accountability systems, executive coordination, and organizational process management.
+Vice President and Head of Judicial Board for a 160+ member organization — overseeing operations, accountability systems, executive coordination, and organizational process management. OpsCore was built directly out of this role.
 
 ---
 
 ## Currently Seeking
 
-Summer 2027 internships in:
-- Management Information Systems
-- Business Analytics
-- IT & Operations
-- Technology Consulting
-- Systems & Process Improvement
+Summer 2027 internships in Management Information Systems, Business Analytics, IT & Operations, Technology Consulting, or Systems & Process Improvement.
 
----
-
-## Links
-
-- LinkedIn: [linkedin.com/in/mabe2124](https://www.linkedin.com/in/mabe2124)
-- OpsCore: [Demo](https://internal-ops-dashboard-livid.vercel.app/)
-- IronSync: [Demo](https://ironsync-ai-fitness-coach.vercel.app/)
-- CyberSight: [Demo](https://cyber-sight-gamma.vercel.app/)
-- InsightFlow AI: [GitHub](https://github.com/mattabe212400/InsightFlow-AI)
+**LinkedIn:** [linkedin.com/in/mabe2124](https://linkedin.com/in/mabe2124)
