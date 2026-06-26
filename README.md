@@ -52,8 +52,6 @@ A full-stack AI application built around the actual workflow of internship prepa
 
 Full-stack BI project built across four phases — Python data engineering pipeline, SQLite relational database, and an interactive Power BI dashboard. Ingests nflverse public play-by-play data and surfaces franchise performance, player production, roster investment, and league comparisons through five executive-focused dashboard pages.
 
----
-
 **What Was Built**
 - Python ETL pipeline collecting team stats, game logs, player stats, salary data, and league-wide benchmarks across 10 seasons
 - Automated data validation across 1,846 rows with zero errors
