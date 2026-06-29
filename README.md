@@ -36,25 +36,21 @@ OpsCore is a full-stack operations platform that serves as a single source of tr
 
 ---
 
-### InternFit AI — AI-Powered Career Copilot *(In Development)*
-*A complete career intelligence platform for internship-seeking students*
+### IronSync — AI Fitness Agent
+*Full-stack AI fitness agent with Google Authentication and multi-agent coaching*
 
-Finding internships is frustrating because students rarely know *why* they aren't getting interviews.
+Finding a training program that actually fits your goals, schedule, and equipment is harder than it should be. IronSync generates a complete personalized weekly split using Gemini AI, then gives you a real-time coaching interface to modify it — swapping exercises, adjusting for soreness, or planning progression — without starting over.
 
-InternFit AI is my attempt to solve that problem. Instead of being another resume checker, I'm building a complete career intelligence platform that helps students understand their strengths, identify gaps, improve their resumes, prepare for interviews, and track their applications — all in one place.
+**Highlights**
+- Google Authentication via Firebase — each user's data isolated by UID in Firestore
+- Gemini 2.5 Flash generates full weekly training programs from a 4-step intake form
+- 4-agent coach system routes messages by intent: workout modification, exercise swaps, injury recovery, and progression planning
+- Session tracker logs completed workouts per user with streak and weekly activity tracking
+- Progress dashboard with muscle volume charts, split balance analytics, and training timeline
+- Mobile responsive — hamburger nav, slide-in context drawer, adaptive grid layouts
+- Deployed full-stack: React + Vite frontend on Vercel, Node/Express AI backend on Render
 
-**Core Modules**
-- Resume Analyzer — AI extracts education, experience, projects, skills, and leadership from uploaded PDFs
-- Resume Scorer — section-by-section scoring across education, experience, projects, technical skills, and formatting
-- ATS Compatibility Checker — flags formatting, keyword, and structural issues before submission
-- Internship Match Engine — paste a job description, get a match score broken down by skills, experience, education, and leadership
-- Skill Gap Analyzer — compares resume skills to job requirements and prioritizes what to learn first
-- AI Resume Suggestions — rewrites weak bullet points into specific, impact-focused language
-- Interview Generator — generates behavioral, technical, and case questions based on resume and target role
-- Application Tracker — CRM-style pipeline tracking companies, roles, status, and notes
-- Career Analytics Dashboard — interview rate, offer rate, resume score trend, and most requested skills
-
-**Tech Stack:** React · TypeScript · Tailwind CSS · Python · FastAPI · PostgreSQL · OpenAI API · Firebase Auth · Vercel
+**Tech Stack:** React · Vite · Node.js · Express · Firebase Auth · Firestore · Gemini AI · Tailwind CSS · Vercel · Render
 
 ---
 
@@ -64,7 +60,6 @@ InternFit AI is my attempt to solve that problem. Instead of being another resum
 Sports generate an incredible amount of data, and I wanted to treat that data the same way a business analyst would.
 
 Bearlytics analyzes ten seasons of Chicago Bears football through an end-to-end analytics pipeline — starting with raw NFL play-by-play data and ending with executive-style Power BI dashboards. The project challenged me to work across the entire analytics stack, from Python ETL and SQL databases to data modeling, DAX, and business storytelling.
-
 
 **What I Built**
 - Python ETL pipeline ingesting nflverse play-by-play data across 10 seasons
@@ -104,6 +99,7 @@ I'm continuing to expand these projects while exploring AI, analytics, and moder
 ## Currently Seeking
 
 Summer 2027 internships in Management Information Systems, Business Analytics, Technology Consulting, IT & Operations, or Systems & Process Improvement.
+
 
 
 
